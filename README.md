@@ -70,10 +70,20 @@ plot_debruijn_graph(edges)
     
     * **Insight:** Demonstrates perfect reconstruction when coverage is ideal.
 
+<p align="center">
+  <img src="image (30).png" alt="" width="500"/>
+</p>
+
+
 2.  **Random DNA Sequence (`AGATGAATGGACCGGCCATATAAGT`)**
     * **Case A: Large $k$ (= 6)**
         * Produces a single unambiguous path.
         * ✅ Unique k-mers → easy assembly.
+     
+      
+   <p align="center">
+  <img src="image (31).png" alt="" width="500"/>
+</p>
     * **Case B: Small $k$ (= 4)**
         * Produces a tangled graph with multiple outgoing/incoming edges.
         
