@@ -84,7 +84,8 @@ plot_debruijn_graph(edges)
    <p align="center">
   <img src="image (31).png" alt="" width="500"/>
 </p>
-    * **Case B: Small $k$ (= 4)**
+
+   * **Case B: Small $k$ (= 4)**
         * Produces a tangled graph with multiple outgoing/incoming edges.
         
         * ⚠️ Ambiguities → repeat regions unresolved.
